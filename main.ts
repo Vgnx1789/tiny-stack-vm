@@ -1,2 +1,2 @@
-V=process.env.V
-eval(V)
+S=process.env.V
+eval(S)
